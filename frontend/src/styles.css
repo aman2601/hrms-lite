@@ -1,0 +1,11 @@
+
+body { font-family: Arial; margin:0; background:#f4f6f9; }
+nav { background:#1e293b; padding:15px; }
+nav a { color:white; margin-right:20px; text-decoration:none; }
+.container { padding:30px; }
+.card { background:white; padding:20px; border-radius:8px; margin-bottom:20px; }
+button { padding:8px 12px; background:#2563eb; color:white; border:none; border-radius:4px; cursor:pointer; }
+input, select { padding:8px; margin:5px; }
+table { width:100%; border-collapse:collapse; }
+th, td { border:1px solid #ddd; padding:10px; }
+th { background:#f1f5f9; }

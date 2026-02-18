@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://hrms-lite-dvkp.onrender.com";
 
 export default function Dashboard() {
   const [count, setCount] = useState(0);
